@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iamrkasula.github.io/hibr/sitemap.xml
